@@ -1,4 +1,4 @@
 # tech-demo
 This is my first git repository.
 <br>
-Author - Abhishek dixit.
+Author - Abhishek (dixit)
